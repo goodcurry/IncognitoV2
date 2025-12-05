@@ -1,6 +1,6 @@
 # IncognitoV2
 
-# HEY IF U SKID AND NOT KNOW HOW GET OFFSETS OR FIX DONT DM ME YOU NI - piomanly
+# o hohoho incognito v3 released noob
 
 **IncognitoV2** is the official source code release from the original developer. This repository provides a single, malware‑free location for exploring, auditing, and extending the tool.
 
